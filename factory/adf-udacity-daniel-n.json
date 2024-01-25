@@ -1,0 +1,9 @@
+{
+	"name": "adf-udacity-daniel-n",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e48b5ab-7fd8-4d72-9b67-c4714b4b3ba7",
+		"tenantId": "48de6b58-3213-4b3c-b9ba-84c7fe402e39"
+	}
+}
